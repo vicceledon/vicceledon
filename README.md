@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hola, soy Victor Celedón 👋
+
+Soy Bioingeniero y estoy trabajando en Lenor SRL como desarrollador de negocios a nivel regional para servicios tales como ensayos normalizados, calibraciones, certificaciones de producto, certificciones de sistemas de calidad, inspecciones y contenido académico.
+Mi equipo está formado por un grupo multidisciplinario de ingenieros, licenciados y técnicos.
+
+Actualmente estoy formándome como desarrollador web en DigitalHouse.
+
+Me gustaría integrar grupos de desarrollo para aplicar mis conocimientos y lograr experiencia en las tecnologías de la información.
 
 <!--
 **vicceledon/vicceledon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
